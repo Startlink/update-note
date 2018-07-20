@@ -1,4 +1,4 @@
-![BOJ](https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/-/resize/500x/boj-stack.png)
+![BOJ](https://upload.acmicpc.net/d1f1a4c2-7284-4c94-8c8e-4e287ea04bb4/-/resize/500x/boj-stack.png)
 
 https://stack.acmicpc.net
 
