@@ -1,4 +1,4 @@
-![BOJ](https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/-/resize/500x/boj.png)
+<p align="center"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></p>
 
 ## 2018-07-20
 
