@@ -3,3 +3,8 @@
 ## 2018-07-20
 
 * [기본 언어 설정](https://www.acmicpc.net/setting/language) 페이지를 라디오 버튼에서 Select box로 변경
+
+
+## 이전 내용
+
+2018-03-19까지의 내용은 [BOJ 뉴스](https://www.acmicpc.net/news), 그 이후 2018-07-20까지의 기록은 [BOJ 업데이트 게시판](https://www.acmicpc.net/board/list/update) 에서 확인할 수 있음
