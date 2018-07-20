@@ -1,4 +1,6 @@
-# BOJ Update Note
+# BOJ
+
+[Baekjoon Online Judge](https://www.acmicpc.net)
 
 ## 2018-07-20
 
