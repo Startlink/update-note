@@ -3,6 +3,7 @@
 ## 2018-07-20
 
 * [기본 언어 설정](https://www.acmicpc.net/setting/language) 페이지를 라디오 버튼에서 Select box로 변경
+* 사이트 하단에 [업데이트 노트](https://github.com/Startlink/update-note/blob/master/boj.md) 링크 추가
 
 
 ## 이전 내용
