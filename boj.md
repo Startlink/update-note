@@ -1,6 +1,6 @@
 # Baekjoon Online Judge
 
-[Baekjoon Online Judge](https://www.acmicpc.net)
+https://www.acmicpc.net
 
 ## 2018-07-20
 
