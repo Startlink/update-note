@@ -2,7 +2,7 @@
 
 ## 2018-07-21
 
-* Pusher 연결을 http에서 https로 변경
+* [Pusher](https://pusher.com/) 연결을 http에서 https로 변경
 
 ## 2018-07-20
 
