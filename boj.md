@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2018-07-23
+
+* [문제집 문제보는 페이지](https://www.acmicpc.net/workbook/view/1152)에서 맞은 사람 링크가 올바르지 않던 버그 수정
+
 ## 2018-07-22
 
 * 시간 표시를 MS에서 ms로 올바르게 수정함 (520 MS -> 520 ms)
