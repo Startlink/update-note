@@ -4,6 +4,7 @@
 
 * [문제집 문제보는 페이지](https://www.acmicpc.net/workbook/view/1152)에서 맞은 사람 링크가 올바르지 않던 버그 수정
 * 예제에 대한 설명을 힌트에 몰아서 보여주지 않고, 예제별 설명을 지원함. [예전 방식](https://www.acmicpc.net/problem/12872), [새로운 방식 1](https://www.acmicpc.net/problem/15928), [새로운 방식 2](https://beta2.acmicpc.net/problem/15929)
+* [서버 상태](http://status.acmicpc.net/) 페이지를 더 이상 사용하지 않습니다. 다른 방식을 사용할 예정입니다.
 
 ## 2018-07-22
 
