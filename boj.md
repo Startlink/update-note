@@ -1,5 +1,12 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2018-07-31
+
+* [Spotboard](https://github.com/spotboard/spotboard)를 네이티브(?)로 지원함. 기존에는 https://\*.acmicpc.net 으로 지원했었음.
+  * 예전 주소: https://ucpc2018.acmicpc.net
+  * 바뀐 주소: https://www.acmicpc.net/contest/spotboard/314
+  * 주소가 길어졌기 때문에, http://boj.kr/c/ucpc2018, http://boj.kr/c/ucpc2018-open 과 같은 짧은 주소도 제공
+
 ## 2018-07-25
 
 * Java에서 런타임 에러와 메모리 초과를 조금 더 정확하게 구분함.
