@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2018-08-10
+
+* [최근 제출된 문제](https://www.acmicpc.net/problem/recent/submit), [최근 풀린 문제](https://www.acmicpc.net/problem/recent/accepted)가 새로 생김
+
 ## 2018-07-31
 
 * [Spotboard](https://github.com/spotboard/spotboard)를 네이티브(?)로 지원함. 기존에는 https://\*.acmicpc.net 으로 지원했었음.
