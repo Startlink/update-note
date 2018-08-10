@@ -1,5 +1,10 @@
 <p align="center"><a href = "https://stack.acmicpc.net"><img src="https://upload.acmicpc.net/d1f1a4c2-7284-4c94-8c8e-4e287ea04bb4/boj-stack.png" width="500"></a></p>
 
+## 2018-08-11
+
+* 서브태스크 문제 추가 가능
+* 데이터 전체 삭제 가능
+
 ## 2018-08-10
 
 * 문제 공유 가능
