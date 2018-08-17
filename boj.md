@@ -1,5 +1,11 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2018-08-17
+
+* 채점 결과 맞춤법 수정
+  * 채점 준비중 &rarr; 채점 준비 중
+  * 채점중 &rarr; 채점 중
+
 ## 2018-08-10
 
 * [최근 제출된 문제](https://www.acmicpc.net/problem/recent/submit), [최근 풀린 문제](https://www.acmicpc.net/problem/recent/accepted)가 새로 생김
