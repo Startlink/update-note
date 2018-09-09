@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://stack.acmicpc.net"><img src="https://upload.acmicpc.net/d1f1a4c2-7284-4c94-8c8e-4e287ea04bb4/boj-stack.png" width="500"></a></p>
 
+## 2018-09-09
+
+* BOJ Stack을 통해 만든 문제의 채점 관련 버그 수정
+
 ## 2018-09-08
 
 * 서브태스크 문제 테스트 관련 버그 수정
