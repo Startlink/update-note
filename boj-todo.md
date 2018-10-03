@@ -1,6 +1,6 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
-이 곳에 있는 내용은 [BOJ](https://www.acmicpc.net)의 업데이트 예정
+이 곳에 있는 내용은 [BOJ](https://www.acmicpc.net)의 To-do 리스트
 
 * 대회
   * 우승과 준우승의 자동 및 수동 선정 (현재: 운영자를 통해야 함)
