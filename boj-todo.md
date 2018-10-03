@@ -137,10 +137,9 @@
   * 테마 추가
     * 다크 모드와 같이 어두운 배경을 지원
   * Tab을 이용해 Focus된 항목 하이라이트 (https://github.com/Startlink/BOJ-Feature-Request/issues/105)
-* 기타
-  * API
-    * API는 통계 관련해서만 제공할 예정
-  * 친구 추가
+* 짧은 주소
+  * 짧은 주소 도움말
+  * 짧은 주소 추가
 * 규정
   * 게시판 이용 규정
   * 블로그 공유 관련 규정
@@ -156,4 +155,7 @@
   * Scala
   * Assembler (MIPS / SPIM)
     * http://spimsimulator.sourceforge.net
-    
+* 기타
+  * API
+    * API는 통계 관련해서만 제공할 예정
+  * 친구 추가
