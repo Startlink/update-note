@@ -9,3 +9,4 @@
   * 맞은 사람 + 언어 선택: https://www.acmicpc.net/problem/status/16170/3/1
   * 채점 현황: https://www.acmicpc.net/status?problem_id=16170&language_id=3&result_id=4&from_problem=1
 * 상태 메시지의 길이 제한이 100자가 아님
+* CodeMirror solarized 테마가 이상함 (https://github.com/Startlink/BOJ-Feature-Request/issues/142)
