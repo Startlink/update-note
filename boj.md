@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2018-10-23
+
+* 예제의 공백을 하이라이트 할 수 있음 ([공지](https://www.acmicpc.net/board/view/30297))
+
 ## 2018-09-17
 
 * 소스 코드를 공유할 수 있음 ([공지](https://www.acmicpc.net/board/view/29058))
