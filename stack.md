@@ -1,5 +1,10 @@
 <p align="center"><a href = "https://stack.acmicpc.net"><img src="https://upload.acmicpc.net/d1f1a4c2-7284-4c94-8c8e-4e287ea04bb4/boj-stack.png" width="500"></a></p>
 
+## 2018-11-18
+
+* 데이터의 줄 앞/뒤 공백 자동 제거
+* 데이터의 줄 바꿈 `\n`으로 자동 변환
+
 ## 2018-11-15
 
 * 문제 업로드 가이드 내용 추가 (데이터, 예제, 문제 스타일)
