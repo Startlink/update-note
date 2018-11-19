@@ -1,5 +1,18 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2018-11-20
+
+* 문제집 북마크 추가
+
+## 2018-11-19
+
+* 비공개 문제집
+* 문제집 추가 UI 변경
+
+## 2018-11-06
+
+* 문제집 구분 세분화 (인증/공개/비공개)
+
 ## 2018-10-23
 
 * 예제의 공백을 하이라이트 할 수 있음 ([공지](https://www.acmicpc.net/board/view/30297))
