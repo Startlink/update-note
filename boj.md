@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2019-04-23
+
+* [링크 설정](https://www.acmicpc.net/setting/connect)이 추가됨
+
 ## 2018-11-26
 
 * 새로운 언어 Kotlin (Native), Java 11 추가 ([공지](https://www.acmicpc.net/board/view/31120))
