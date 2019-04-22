@@ -3,6 +3,7 @@
 ## 2019-04-23
 
 * [링크 설정](https://www.acmicpc.net/setting/connect)이 추가됨
+* [테마 설정](https://www.acmicpc.net/setting/theme)에서 solarized dark와 solarized light를 선택했을 때, 올바르게 적용되지 않던 버그 수정
 
 ## 2018-11-26
 
