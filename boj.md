@@ -5,6 +5,7 @@
 * [링크 설정](https://www.acmicpc.net/setting/connect)이 추가됨
 * [테마 설정](https://www.acmicpc.net/setting/theme)에서 solarized dark와 solarized light를 선택했을 때, 올바르게 적용되지 않던 버그 수정
 * 그룹 이름 및 설명에서 `&`와 같은 글자가 자꾸 `&amp;`로 escape되는 버그 수정
+* 소스 코드 줄 바꿈을 `\r\n`에서 `\n`으로 변경
 
 ## 2018-11-26
 
