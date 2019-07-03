@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2019-07-03
+
+* 내 파일, 그룹 파일에 파일 크기 표시
+
 ## 2019-04-23
 
 * [링크 설정](https://www.acmicpc.net/setting/link)이 추가됨
