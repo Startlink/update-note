@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://stack.acmicpc.net"><img src="https://upload.acmicpc.net/d1f1a4c2-7284-4c94-8c8e-4e287ea04bb4/boj-stack.png" width="500"></a></p>
 
+## 2019-07-18
+
+* 데이터 다운로드가 가능
+
 ## 2019-06-24
 
 * 단계별로 풀어보기 편집 기능 추가
