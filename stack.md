@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://stack.acmicpc.net"><img src="https://upload.acmicpc.net/d1f1a4c2-7284-4c94-8c8e-4e287ea04bb4/boj-stack.png" width="500"></a></p>
 
+## 2019-07-19
+
+* 테스트 메뉴에서 각 소스의 상세 결과(데이터 별 결과, 시간, 메모리)를 볼 수 있음
+
 ## 2019-07-18
 
 * 데이터 다운로드가 가능
