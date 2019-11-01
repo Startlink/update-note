@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2019-11-01
+
+* 유저 정보 페이지의 검색 엔진의 노출을 정보 수정에서 설정할 수 있음
+
 ## 2019-07-22
 
 * [Recaptcha 규칙 및 제출 쿨타임 변경](https://www.acmicpc.net/board/view/39141)
