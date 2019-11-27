@@ -1,5 +1,10 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2019-11-28
+
+* 유저의 맞은 문제, 제출, 정답 비율을 계산할 때 [삭제] [채점 준비중] [번외]를 제외함
+* [통계 도움말](https://www.acmicpc.net/help/stat]이 생김
+
 ## 2019-11-01
 
 * 유저 정보 페이지의 검색 엔진의 노출을 정보 수정에서 설정할 수 있음
