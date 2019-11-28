@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2019-11-29
+
+* [문제집 좋아요/싫어요](https://www.acmicpc.net/board/view/43761) 생김
+
 ## 2019-11-28
 
 * [번외] 문제가 생김
