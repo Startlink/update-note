@@ -11,7 +11,7 @@
 
 * [번외] 문제가 생김
 * 유저의 맞은 문제, 제출, 정답 비율을 계산할 때 [삭제] [채점 준비중] [번외]를 제외함
-* [통계 도움말](https://www.acmicpc.net/help/stat]이 생김
+* [통계 도움말](https://www.acmicpc.net/help/stat)이 생김
 
 ## 2019-11-01
 
