@@ -3,6 +3,9 @@
 ## 2019-11-29
 
 * [문제집 좋아요/싫어요](https://www.acmicpc.net/board/view/43761) 생김
+* 게시판 에디터 Redactor 3.0.0에서 3.3.2로 업데이트
+* [BOJ 실험실](https://www.acmicpc.net/labs) 생김
+* BOJ 실험실에 소스 코드 비교 생김
 
 ## 2019-11-28
 
