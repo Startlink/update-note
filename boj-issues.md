@@ -2,11 +2,5 @@
 
 이 곳에 있는 내용은 [BOJ](https://www.acmicpc.net)의 알려진 이슈
 
-* 검색이 업데이트 되지 않음
-  * https://www.acmicpc.net/search
 * 일부 문제의 제목이 공백으로 시작함
-* 맞은 사람 + 언어 선택의 결과가 실제와 다름
-  * 맞은 사람 + 언어 선택: https://www.acmicpc.net/problem/status/16170/3/1
-  * 채점 현황: https://www.acmicpc.net/status?problem_id=16170&language_id=3&result_id=4&from_problem=1
 * 상태 메시지의 길이 제한이 100자가 아님
-* CodeMirror solarized 테마가 이상함 (https://github.com/Startlink/BOJ-Feature-Request/issues/142)
