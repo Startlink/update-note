@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2020-01-17
+
+* [code.plus 문제집](https://www.acmicpc.net/workbook/codeplus) 추가
+
 ## 2019-12-02
 
 * 대회 보기에서 검수자 항목을 볼 수 있음 ([예시](https://www.acmicpc.net/contest/view/492))
