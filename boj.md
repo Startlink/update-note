@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2020-01-29
+
+* 학교 정보 직접 삭제 가능
+
 ## 2020-01-17
 
 * [code.plus 문제집](https://www.acmicpc.net/workbook/codeplus) 추가
