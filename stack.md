@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://stack.acmicpc.net"><img src="https://upload.acmicpc.net/d1f1a4c2-7284-4c94-8c8e-4e287ea04bb4/boj-stack.png" width="500"></a></p>
 
+## 2020-03-10
+
+* 데이터 검증 추가
+
 ## 2020-01-22
 
 * 서브태스크 문제도 소스의 상세 결과를 볼 수 있음
