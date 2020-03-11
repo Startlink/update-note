@@ -1,5 +1,10 @@
 <p align="center"><a href = "https://stack.acmicpc.net"><img src="https://upload.acmicpc.net/d1f1a4c2-7284-4c94-8c8e-4e287ea04bb4/boj-stack.png" width="500"></a></p>
 
+## 2020-03-11
+
+* 서브태스크 문제도 데이터 검증을 할 수 있음
+* 서브태스크 문제의 경우 각 소스의 상세 결과에 서브태스크 별 결과도 보여줌
+
 ## 2020-03-10
 
 * 데이터 검증 추가
