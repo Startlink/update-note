@@ -4,6 +4,10 @@
 
 * [알고리즘 분류](https://www.acmicpc.net/problem/tags)가 solved.ac의 알고리즘 분류를 사용함
 
+## 2020-06-13
+
+* [solved.ac](https://solved.ac) 문제 난이도를 BOJ에서 보여줌
+
 ## 2020-04-29
 
 * [계정 연동](https://www.acmicpc.net/setting/connect)에 AtCoder 추가
