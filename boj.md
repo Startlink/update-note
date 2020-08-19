@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2020-08-19
+
+* [알고리즘 분류](https://www.acmicpc.net/problem/tags)가 solved.ac의 알고리즘 분류를 사용함
+
 ## 2020-04-29
 
 * [계정 연동](https://www.acmicpc.net/setting/connect)에 AtCoder 추가
