@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2020-08-21
+
+* [문제 목록](https://www.acmicpc.net/problemset)에서 여러가지 필터를 적용할 수 있음 [(게시판 공지)](https://www.acmicpc.net/board/view/55468)
+
 ## 2020-08-19
 
 * [알고리즘 분류](https://www.acmicpc.net/problem/tags)가 solved.ac의 알고리즘 분류를 사용함
