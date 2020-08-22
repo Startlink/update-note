@@ -1,5 +1,13 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2020-08-23
+
+* 문제 목록 필터에 본 순서로 정렬 추가
+
+## 2020-08-22
+
+* 문제 목록 필터에 다양한 옵션 추가
+
 ## 2020-08-21
 
 * [문제 목록](https://www.acmicpc.net/problemset)에서 여러가지 필터를 적용할 수 있음 [(게시판 공지)](https://www.acmicpc.net/board/view/55468)
