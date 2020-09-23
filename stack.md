@@ -1,5 +1,10 @@
 <p align="center"><a href = "https://stack.acmicpc.net"><img src="https://upload.acmicpc.net/d1f1a4c2-7284-4c94-8c8e-4e287ea04bb4/boj-stack.png" width="500"></a></p>
 
+## 2020-09-23
+
+* 스페셜 저지 선택 옵션 추가 (Kotlin, 표시만 있음, 표시 없음)
+* 채점 방식 선택 추가 (일반, 함수 구현, 전체 채점, 인터랙티브)
+
 ## 2020-03-11
 
 * 서브태스크 문제도 데이터 검증을 할 수 있음
