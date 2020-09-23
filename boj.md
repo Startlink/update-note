@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2020-09-22
+
+* Two steps 방식의 문제 지원
+
 ## 2020-09-02
 
 * 문제 목록 필터의 스타일 조건에 NAND, NOR 추가
