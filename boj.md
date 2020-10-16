@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2020-10-16
+
+* 맞은 사람의 정렬 기준에 제출 순, 시도의 오름차순, 시도의 내림차순 추가 [(게시판 공지)](https://www.acmicpc.net/board/view/58245)
+
 ## 2020-09-24
 
 * 문제 목록 옵션에서 알고리즘 분류를 사용할 수 있음
