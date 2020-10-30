@@ -1,5 +1,11 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2020-10-27
+
+* 언어 업데이트 [(게시판 공지 1)](https://www.acmicpc.net/board/view/58642), [(게시판 공지 2)](https://www.acmicpc.net/board/view/58679), [(게시판 공지 3)](https://www.acmicpc.net/board/view/58697)
+* 기본 언어가 C++14에서 C++17로 변경
+* 언어 설정에 기본값으로 되돌리는 버튼, 모든 언어를 보는 버튼을 추가
+
 ## 2020-10-16
 
 * 맞은 사람의 정렬 기준에 제출 순, 시도의 오름차순, 시도의 내림차순 추가 [(게시판 공지)](https://www.acmicpc.net/board/view/58245)
