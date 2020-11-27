@@ -3,6 +3,7 @@
 ## 2020-11-27
 
 * .NET 추가 [(게시판 공지)](https://www.acmicpc.net/board/view/59687)
+* 컴파일 에러 관련 업데이트 [(게시판 공지)](https://www.acmicpc.net/board/view/59695)
 
 ## 2020-10-27
 
