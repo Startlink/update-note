@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2020-11-27
+
+* .NET 추가 [(게시판 공지)](https://www.acmicpc.net/board/view/59687)
+
 ## 2020-10-27
 
 * 언어 업데이트 [(게시판 공지 1)](https://www.acmicpc.net/board/view/58642), [(게시판 공지 2)](https://www.acmicpc.net/board/view/58679), [(게시판 공지 3)](https://www.acmicpc.net/board/view/58697)
