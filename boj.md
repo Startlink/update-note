@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2020-11-29
+
+* 유저가 만든 공개 문제집을 모아서 볼 수 있음 (/workbook/by/아이디)
+
 ## 2020-11-27
 
 * .NET 추가 [(게시판 공지)](https://www.acmicpc.net/board/view/59687)
