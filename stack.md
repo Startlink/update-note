@@ -1,5 +1,11 @@
 <p align="center"><a href = "https://stack.acmicpc.net"><img src="https://upload.acmicpc.net/d1f1a4c2-7284-4c94-8c8e-4e287ea04bb4/boj-stack.png" width="500"></a></p>
 
+## 2020-12-01
+
+* 문제 목록 페이지 UI 변경
+* 데이터 검증 메뉴 독립
+* 기대하는 결과에 "!맞았습니다" 추가
+
 ## 2020-11-20
 
 * 가이드를 안내로 이름 변경
