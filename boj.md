@@ -1,5 +1,10 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2020-12-02
+
+* 문제 출처에 "내가 푼 문제" 추가 [(게시판 공지)](https://beta2.acmicpc.net/board/view/59879)
+* MathJax 3으로 업데이트
+
 ## 2020-11-29
 
 * 유저가 만든 공개 문제집을 모아서 볼 수 있음 (/workbook/by/아이디)
