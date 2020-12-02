@@ -1,5 +1,10 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2020-12-03
+
+* 문제 옵션의 알고리즘 분류에서 NAND, NOR 조건 추가
+* 문제 옵션에서 알고리즘을 5개까지 선택할 수 있게 변경 (기존: 3개)
+
 ## 2020-12-02
 
 * 문제 출처에 "내가 푼 문제" 추가 [(게시판 공지)](https://beta2.acmicpc.net/board/view/59879)
