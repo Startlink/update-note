@@ -1,5 +1,14 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2021-01-08
+
+* 런타임 에러 이유 보지 않기 옵션 추가
+* [런타임 에러 상세 도움말](https://www.acmicpc.net/help/rte) 추가
+
+## 2021-01-07
+
+* 런타임 에러 이유를 보여줌 ([게시판 공지)](https://www.acmicpc.net/board/view/61574)
+
 ## 2021-01-04
 
 * 채점 현황 속도 개선
