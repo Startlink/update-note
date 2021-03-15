@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://stack.acmicpc.net"><img src="https://upload.acmicpc.net/d1f1a4c2-7284-4c94-8c8e-4e287ea04bb4/boj-stack.png" width="500"></a></p>
 
+## 2021-03-08
+
+* 대회 문제 추가 및 수정 가능
+
 ## 2020-12-11
 
 * 데이터 검증을 통과하지 못하면 테스트를 실행시킬 수 없게 변경
