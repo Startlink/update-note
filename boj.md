@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2021-03-15
+
+* 대회 프리즈 설정 삭제 (BOJ Stack으로 이동)
+
 ## 2021-01-17
 
 * 문제 보기 설정을 번역본, 원문에서 한국어, 영어, 원문으로 수정 [(게시판 공지)](https://www.acmicpc.net/board/view/62236)
