@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2021-03-19
+
+* 사이트의 모든 시간 표기를 H시 m분 s초에서 HH:mm:ss 로 변경
+
 ## 2021-03-15
 
 * 대회 프리즈 설정 삭제 (BOJ Stack으로 이동)
