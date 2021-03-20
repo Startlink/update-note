@@ -2,4 +2,3 @@
 
 이 곳에 있는 내용은 [BOJ Stack](https://stack.acmicpc.net)의 알려진 이슈
 
-* 대회 관리자가 대회 설정을 변경할 수 없음
