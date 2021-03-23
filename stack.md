@@ -1,5 +1,10 @@
 <p align="center"><a href = "https://stack.acmicpc.net"><img src="https://upload.acmicpc.net/d1f1a4c2-7284-4c94-8c8e-4e287ea04bb4/boj-stack.png" width="500"></a></p>
 
+## 2021-03-23
+
+* 문제를 수정하고 저장할 때 올바른 문제 그룹으로 돌아가게 수정
+* 대회 문제 추가에서 문제 검색이 이전 문제 검색을 초기화시키는 오류를 수정
+
 ## 2021-03-15
 
 * 대회 프리즈 설정 추가 (기존에는 BOJ에 있었음)
