@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://stack.acmicpc.net"><img src="https://upload.acmicpc.net/d1f1a4c2-7284-4c94-8c8e-4e287ea04bb4/boj-stack.png" width="500"></a></p>
 
+## 2021-06-29
+
+* 그룹에 저장된 문제의 서브태스크, 예제를 저장 할 때, 전체 문제 목록이 아닌 그 문제가 속한 문제 그룹의 목록으로 이동하게 수정
+
 ## 2021-03-26
 
 * 대회 문제 검색, 단계별 문제 검색에서 문제 검색할 때 범위를 이용해 검색할 수 있음
