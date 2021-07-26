@@ -1,5 +1,17 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2021-07-23
+
+* Day 1/Day2, Platinum/Gold/Silver/Bronze, 초등부/중등부/고등부와 같이 한 대회가 여러 부분으로 나누어져 있는 문제 출처 페이지 업데이트 [(게시판 공지)](https://www.acmicpc.net/board/view/71884)
+
+## 2021-07-20
+
+* 그룹 연습 스코어보드 속도 업데이트
+
+## 2021-07-13
+
+* solved.ac 티어 보기 설정 (성공인 경우만 보기, 성공, 부분 성공인 경우만 보기) 추가
+
 ## 2021-03-19
 
 * 사이트의 모든 시간 표기를 H시 m분 s초에서 HH:mm:ss 로 변경
