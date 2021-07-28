@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2021-07-29
+
+* 문제의 재채점 결과 페이지 업데이트 [(게시판 공지)](https://www.acmicpc.net/board/view/72246)
+
 ## 2021-07-23
 
 * Day 1/Day2, Platinum/Gold/Silver/Bronze, 초등부/중등부/고등부와 같이 한 대회가 여러 부분으로 나누어져 있는 문제 출처 페이지 업데이트 [(게시판 공지)](https://www.acmicpc.net/board/view/71884)
