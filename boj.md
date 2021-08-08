@@ -2,11 +2,7 @@
 
 ## 2021-08-08
 
-* 연/월/주/일 랭킹 [(게시판 공지)](https://www.acmicpc.net/board/view/72880)
-    * [연 랭킹](https://beta2.acmicpc.net/ranklist/year)
-    * [월 랭킹](https://beta2.acmicpc.net/ranklist/month)
-    * [주 랭킹](https://beta2.acmicpc.net/ranklist/week)
-    * [일 랭킹](https://beta2.acmicpc.net/ranklist/day)
+* [연](https://www.acmicpc.net/ranklist/year)/[월](https://www.acmicpc.net/ranklist/month)/[주](https://www.acmicpc.net/ranklist/week)/[일](https://www.acmicpc.net/ranklist/day) 랭킹 [(게시판 공지)](https://www.acmicpc.net/board/view/72880)
 
 ## 2021-07-29
 
