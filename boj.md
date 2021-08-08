@@ -1,5 +1,13 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2021-08-08
+
+* 연/월/주/일 랭킹 [(게시판 공지)](https://www.acmicpc.net/board/view/72880)
+ * [연 랭킹](https://beta2.acmicpc.net/ranklist/year)
+ * [월 랭킹](https://beta2.acmicpc.net/ranklist/month)
+ * [주 랭킹](https://beta2.acmicpc.net/ranklist/week)
+ * [일 랭킹](https://beta2.acmicpc.net/ranklist/day)
+
 ## 2021-07-29
 
 * 문제의 재채점 결과 페이지 업데이트 [(게시판 공지)](https://www.acmicpc.net/board/view/72246)
