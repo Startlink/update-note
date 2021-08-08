@@ -4,9 +4,17 @@
 
 * [연](https://www.acmicpc.net/ranklist/year)/[월](https://www.acmicpc.net/ranklist/month)/[주](https://www.acmicpc.net/ranklist/week)/[일](https://www.acmicpc.net/ranklist/day) 랭킹 [(게시판 공지)](https://www.acmicpc.net/board/view/72880)
 
+## 2021-08-05
+
+* 학교 랭킹을 실시간에 가깝게 업데이트 [(게시판 공지)](https://www.acmicpc.net/board/view/72696)
+
 ## 2021-07-29
 
 * 문제의 재채점 결과 페이지 업데이트 [(게시판 공지)](https://www.acmicpc.net/board/view/72246)
+
+## 2021-07-28
+
+* 채점 프로그램 및 기타 속도 관련 업데이트 [(게시판 공지)](https://www.acmicpc.net/board/view/72175)
 
 ## 2021-07-23
 
