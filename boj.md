@@ -1,6 +1,14 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
 
+## 2021-08-29
+
+* [BOJ Open 대회 캘린더](https://www.acmicpc.net/contest/calendar) 추가
+
+## 2021-08-28
+
+* [외부 대회 일정](https://www.acmicpc.net/contest/other/list) 추가
+
 ## 2021-08-17
 
 * 언어 그룹 랭킹 추가
