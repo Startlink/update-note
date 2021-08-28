@@ -115,7 +115,7 @@
 ## 2020-10-27
 
 * 언어 업데이트 [(게시판 공지 1)](https://www.acmicpc.net/board/view/58642), [(게시판 공지 2)](https://www.acmicpc.net/board/view/58679), [(게시판 공지 3)](https://www.acmicpc.net/board/view/58697)
-* 기본 언어가 C++14에서 C++17로 변경
+* 기본 언어를 C++14에서 C++17로 변경
 * 언어 설정에 기본값으로 되돌리는 버튼, 모든 언어를 보는 버튼을 추가
 
 ## 2020-10-16
