@@ -1,5 +1,16 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2021-09-01
+
+* 채점 현황에서 다음 경우에 채점 결과 메시지에 링크 추가
+  * 런타임 에러
+  * 볼 수 있는 소스이면서
+    * 컴파일 에러
+    * [서브태스크], [전체 채점] 문제이면서, 맞았습니다!!
+
+## 2021-08-31
+
+* 짧은 주소에서 사용하는 icpc.me, noj.am, boj.kr에 https 적용
 
 ## 2021-08-29
 
