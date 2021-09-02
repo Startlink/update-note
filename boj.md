@@ -1,6 +1,6 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
-## 2021-09-01 (예정)
+## 2021-09-01
 
 * 채점 현황에서 다음 경우에 채점 결과 메시지에 링크 추가
   * 런타임 에러
