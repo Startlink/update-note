@@ -1,5 +1,25 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2021-11-05
+
+* [유저의 언어 정보 페이지](https://www.acmicpc.net/user/language/baekjoon)를 부활시킴
+
+## 2021-11-04
+
+* [결과 랭킹](https://www.acmicpc.net/ranklist/result/4)에서 [삭제], [채점 준비 중], [번외] 문제의 결과를 제외하고 보여줌
+
+## 2021-11-01
+
+* [언어 랭킹](https://www.acmicpc.net/ranklist/language/84)의 맞은 문제, 제출에서 [삭제], [채점 준비 중], [번외] 문제를 제외하고 보여줌
+
+## 2021-10-31
+
+* [유저 정보 페이지](https://www.acmicpc.net/user/baekjoon)에서 최근 2년간의 제출 정보를 보여줌
+
+## 2021-09-24
+
+* 서브태스크마다 시간 제한을 다르게 둘 수 있음
+
 ## 2021-09-01
 
 * 채점 현황에서 다음 경우에 채점 결과 메시지에 링크 추가
