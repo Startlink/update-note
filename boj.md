@@ -1,5 +1,9 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2022-01-05
+
+* 게시판에서 소스 코드의 언어를 보여줌
+
 ## 2021-11-05
 
 * [유저의 언어 정보 페이지](https://www.acmicpc.net/user/language/baekjoon)를 부활시킴
