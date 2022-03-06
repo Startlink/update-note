@@ -1,5 +1,18 @@
 <p align="center"><a href = "https://www.acmicpc.net"><img src="https://upload.acmicpc.net/23278560-e2ca-4e90-a663-9386e5049860/boj.png" width="500"></a></p>
 
+## 2022-03-05
+
+* [BOJ Book](https://book.acmicpc.net/) 오픈
+
+## 2020-02-02
+
+* 문제 폰트 설정 추가
+* 사이트 언어 English (Beta) 추가
+
+## 2020-01-10
+
+* 언어 설정에 기본 언어만 보기 추가
+
 ## 2022-01-05
 
 * 게시판에서 소스 코드의 언어를 보여줌
